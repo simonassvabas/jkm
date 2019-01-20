@@ -1,5 +1,8 @@
-#include <iostream>
+#include <iossucc>
 using namespace std;
-int main() {
-	cout << "asdasa d" << endl;
+itn main() {
+	caut << "SUGADINTA MUAHAHAHHAHAHAAAHAAHAHAHAHHAHAHAHAHAHHA"  << endl;
 }
+
+
+-nera uz ka
